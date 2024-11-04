@@ -10,7 +10,7 @@ This **2048** project is a browser-based JavaScript game where players combine n
 - **JavaScript (ES6)** to manage game logic, track user interactions, and handle tile movement.
 
 ## Links
-- **Preview**: [Project Live Preview](https://yurovych.github.io/2048-game/)
+- **Preview**: [Project Live Preview](https://yurovych.github.io/2048-game-PF/)
 
 #### Additional Instructions
 
